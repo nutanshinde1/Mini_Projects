@@ -5,11 +5,11 @@ I’m uploading 1 mini project daily to improve my Python and development skills
 
 # 📂 All Projects List
 
-Date	         Project	Folder
+Project	Folder
 
-22-02-2026	   ASCII Image Converter	asci
+1.Alarm Clock
 
-21-02-2026  	 Alarm Clock	alarm
+2.ASCII Image Converter	asci
 
 #🎯 Goal
 
