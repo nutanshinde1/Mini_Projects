@@ -1,6 +1,6 @@
 # 🚀 Mini_Projects
 
-Hi I'm Nutan Shinde
+Hi I'm Nutan Shinde,
 I’m uploading 1 mini project daily to improve my Python and development skills 💻🔥
 
 # 📂 All Projects List
