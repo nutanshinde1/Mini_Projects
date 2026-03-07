@@ -1,7 +1,7 @@
 # 🚀 Mini_Projects
 
 Hi I'm Nutan Shinde,
-I’m uploading 1 mini project daily to improve my Python and development skills 💻🔥
+I’m uploading mini projects here to improve my Python and development skills 💻🔥
 
 # 📂 All Projects List
 
@@ -13,4 +13,4 @@ I’m uploading 1 mini project daily to improve my Python and development skills
 
 #🎯 Goal
  
-Build consistency by uploading 1 mini project every day 🚀
+Build consistency by uploading continous mini projects🚀
