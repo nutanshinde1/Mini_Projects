@@ -13,4 +13,4 @@ I’m uploading mini projects here to improve my Python and development skills �
 
 #🎯 Goal
  
-Build consistency by uploading continous mini projects🚀
+Build logic and understanding concepts by creating mini projects
