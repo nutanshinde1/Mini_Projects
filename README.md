@@ -1,26 +1,51 @@
-# 🎯 Number Guessing Game
+# 🚀 Python Mini Projects
 
-A simple Python game where you try to guess a random number between 1–100.
-
-### 🧠 What I Practiced
-
-* Loops & conditions
-* User input
-* Random module
-
-### ▶️ Run
-
-```bash id="m2k8zs"
-python main.py
-```
-
-### 🚀 Improvement Ideas
-
-* Difficulty levels
-* Limited attempts
-* Replay option
+A collection of small Python projects to strengthen core programming concepts.
 
 ---
 
-👨‍💻 Author: **Nutan Shinde**
-✨ Day 1 of my Python mini-project challenge
+## 📁 Projects
+
+### 🔋 Battery
+
+* File: `battery.py`
+* Concept: Basic logic & conditions
+
+### 🎯 Number Guessing Game
+
+* File: `Number_Guess.py`
+* Concept: Loops, conditions, random module
+
+### ⏰ Alarm
+
+* File: `alarm.py`
+* Concept: Time handling
+
+### 🔤 ASCII Art Generator
+
+* File: `ascii.py`
+* Extras: sample input & output images
+* Concept: Image processing basics
+
+---
+
+## 🧠 Goal
+
+Build mini projects to master Python fundamentals step by step.
+
+---
+
+## ⚡ Tech Used
+
+* Python
+* Standard Libraries
+
+---
+
+## 👨‍💻 Author
+
+**Nutan Shinde**
+
+---
+
+✨ This repo will be updated daily with new projects.
