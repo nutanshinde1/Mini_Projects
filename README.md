@@ -1,16 +1,26 @@
-# 🚀 Mini_Projects
+# 🎯 Number Guessing Game
 
-Hi I'm Nutan Shinde,
-I’m uploading mini projects here to improve my Python and development skills 💻🔥
+A simple Python game where you try to guess a random number between 1–100.
 
-# 📂 All Projects List
+### 🧠 What I Practiced
 
-## Project	Folder
+* Loops & conditions
+* User input
+* Random module
 
-1. Alarm Clock
+### ▶️ Run
 
-2. ASCII Image Converter	asci
+```bash id="m2k8zs"
+python main.py
+```
 
-#🎯 Goal
- 
-Build logic and understanding concepts by creating mini projects
+### 🚀 Improvement Ideas
+
+* Difficulty levels
+* Limited attempts
+* Replay option
+
+---
+
+👨‍💻 Author: **Nutan Shinde**
+✨ Day 1 of my Python mini-project challenge
