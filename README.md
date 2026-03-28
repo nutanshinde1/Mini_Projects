@@ -1,15 +1,15 @@
-#  Python Mini Projects
+# Python Mini Projects
 
 A collection of small Python projects to strengthen core programming concepts.
 
 ---
 
-##  Projects
+## Projects
 
 ### 1. Battery
 
 * File: `battery.py`
-* Concept: Basic logic & conditions
+* Concept: Basic logic and conditions
 
 ### 2. Number Guessing Game
 
@@ -24,28 +24,28 @@ A collection of small Python projects to strengthen core programming concepts.
 ### 4. ASCII Art Generator
 
 * File: `ascii.py`
-* Extras: sample input & output images
+* Extras: Sample input and output images
 * Concept: Image processing basics
 
 ---
 
-##  Goal
+## Goal
 
 Build mini projects to master Python fundamentals step by step.
 
 ---
 
-##  Tech Used
+## Tech Used
 
 * Python
 * Standard Libraries
 
 ---
 
-##  Author
+## Author
 
-**Nutan Shinde**
+Nutan Shinde
 
 ---
 
-✨ This repo will be updated daily with new projects.
+This repository will be updated daily with new projects.
