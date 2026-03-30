@@ -1,4 +1,4 @@
-# Day 3 - Password Generator
+# Password Generator
 
 A Python program that generates random passwords based on user preferences.
 
