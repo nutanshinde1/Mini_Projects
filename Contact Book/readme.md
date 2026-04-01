@@ -8,10 +8,6 @@ A simple command-line contact management system to store and manage contacts.
 * File handling
 * CRUD operations
 
-## Run
-
-python main.py
-
 ## Improvements
 
 * Update contact feature
